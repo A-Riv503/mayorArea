@@ -1,0 +1,2 @@
+"# trianguloArea" 
+"# mayorArea" 
